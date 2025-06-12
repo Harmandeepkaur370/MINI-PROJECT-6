@@ -1,8 +1,8 @@
 # MINI-PROJECT-6
 Advance Python
-Part I: Process Automation -----------------------------------------------------------------------
+Part I: Process Automation 
 
-Advance Python Assignments ----------------------------------------------------------------------
+Advance Python Assignments 
 
 1.Create a file that contains 1000 lines of random strings. 
 
@@ -22,7 +22,7 @@ Advance Python Assignments -----------------------------------------------------
 
 9.Convert all the videos of Q8 and convert it to audio. [Hint: Find the package from pypi.org and use it] 
 
-10.   Create an automated pipeline using multi-threading for:  
+10. Create an automated pipeline using multi-threading for:  
 “Automatic Download of 100 Videos from YouTube” → “Convert it to Audio”. 
 
 11.   Create an automated pipeline using multi-threading for: “Automatic Download of 500 images of Dog from GoogleImages” → “Rescale it to 50%”. 
