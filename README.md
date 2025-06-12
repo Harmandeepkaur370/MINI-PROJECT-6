@@ -57,7 +57,7 @@ Perform the following operations:
 
 (iii) Plot the Box plot of each column in single graph. 
 
-16. Create a random dataset of 500 rows and 5 columns: 
+15. Create a random dataset of 500 rows and 5 columns: 
 All the values are defined between [5,10].  
 Perform the following operations: 
 (i) Perform t-Test on each column.
